@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdAtTubBl7U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bounc\\OneDrive\\Documents\\Important_Documents\\Dotnet-CSharp-Projects\\CrossPlatformConsole\\CrossPlatformConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bounc\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\10.0.14\\microsoft.netcore.app.runtime.linux-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\bounc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\10.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\bounc\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\10.0.14\\microsoft.netcore.app.host.linux-x64.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

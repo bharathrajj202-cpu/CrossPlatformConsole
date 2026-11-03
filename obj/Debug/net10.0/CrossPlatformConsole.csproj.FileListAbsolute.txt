@@ -1,0 +1,14 @@
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\bin\Debug\net10.0\CrossPlatformConsole.exe
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\bin\Debug\net10.0\CrossPlatformConsole.deps.json
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\bin\Debug\net10.0\CrossPlatformConsole.runtimeconfig.json
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\bin\Debug\net10.0\CrossPlatformConsole.dll
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\bin\Debug\net10.0\CrossPlatformConsole.pdb
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\CrossPlatformConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\CrossPlatformConsole.AssemblyInfoInputs.cache
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\CrossPlatformConsole.AssemblyInfo.cs
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\CrossPlatformConsole.csproj.CoreCompileInputs.cache
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\CrossPlatformConsole.dll
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\refint\CrossPlatformConsole.dll
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\CrossPlatformConsole.pdb
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\CrossPlatformConsole.genruntimeconfig.cache
+C:\Users\bounc\OneDrive\Documents\Important_Documents\Dotnet-CSharp-Projects\CrossPlatformConsole\obj\Debug\net10.0\ref\CrossPlatformConsole.dll
